@@ -229,7 +229,7 @@ a:focus {
     clear: both;
     content: "";
     top: 1rem;
-    right: calc(100% + 12rem);
+    right: calc(100% + 11.5rem);
     transform: translate(0%, 0%);
     width: 2rem;
     height: 2rem;
@@ -243,7 +243,7 @@ a:focus {
     clear: both;
     content: "";
     top: 0;
-    right: calc(100% + 11.1rem);
+    right: calc(100% + 10.5rem);
     transform: translate(0%, 0%);
     width: 4rem;
     height: 4rem;
@@ -312,7 +312,7 @@ a:focus {
     clear: both;
     content: "";
     top: 3rem;
-    right: calc(100% + 11.8rem);
+    right: calc(100% + 10.8rem);
     transform: translate(0%, 0%);
     width: 2rem;
     height: 2rem;
@@ -326,7 +326,7 @@ a:focus {
     clear: both;
     content: "";
     top: 2rem;
-    right: calc(100% + 10.8rem);
+    right: calc(100% + 9.8rem);
     transform: translate(0%, 0%);
     width: 4rem;
     height: 4rem;
