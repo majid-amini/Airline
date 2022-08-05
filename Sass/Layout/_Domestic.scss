@@ -21,15 +21,13 @@
             }
         }   
         .totaldom {
-            // padding: 2rem 5rem;
+            
             display: grid;
             grid-template-columns: repeat(4, 1fr);
             grid-template-rows: 1fr 1fr;
             margin-top: 10rem;
             gap: 2rem;
-            // h2 {
-                
-            // }
+            
            
             .img_container {
                 position: relative;
